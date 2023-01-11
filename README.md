@@ -12,7 +12,7 @@
   - [🛠 Built With](#built-with)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -39,13 +39,15 @@ Example commands:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-👤 **Author1**
+👤 **Ghulam Shabbir**
 
 - GitHub: [@AJ193](https://github.com/AJ193)
 - Twitter: [@GhulamShabbir59](https://twitter.com/GhulamShabbir59)
 - LinkedIn: [ghulamshabbir225264247](www.linkedin.com/in/ghulam-shabbir-225264247)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -60,6 +62,8 @@ If you like this project please consider leaving a review.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my coding partner @fuadmoin for motivating and helping me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
