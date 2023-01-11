@@ -1,36 +1,68 @@
-# Hello Microverse Project
+<a name="readme-top"></a>
 
-> This project has been built as part of the reviewers exercise or training.
-## Built With
+<div align="center">
 
-- HTML, CSS3
-- Github flow
-- VSCode
+  <h3><b>Microverse README Template</b></h3>
 
-## Authors
+</div>
 
-👤 **AJ193**
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+# 📖 [Hello Microverse] <a name="about-project"></a>
+
+**[Hello Microverse]** is a simple html project containing one header.
+
+## 🛠 Built With <a name="built-with"></a>
+
+HTML and CSS
+
+### Setup
+
+Clone this repository to your desired folder:
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
 
 - GitHub: [@AJ193](https://github.com/AJ193)
 - Twitter: [@GhulamShabbir59](https://twitter.com/GhulamShabbir59)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/ghulam-shabbir-225264247)
+- LinkedIn: [ghulamshabbir225264247](www.linkedin.com/in/ghulam-shabbir-225264247)
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AJ193/Hello-Microverse/issues).
+⭐️ Show your support <a name="support"></a>
 
-## Show your support
+If you like this project please consider leaving a review.
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- tip to anyone whose code was used
-- Hard Work
-- etc
+I would like to thank my coding partner @fuadmoin for motivating and helping me.
 
-## 📝 License
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
