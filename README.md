@@ -18,9 +18,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**[Hello Microverse]** is a simple html project containing one header.
+**Hello Microverse** is a simple html project containing one header.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,7 +47,7 @@ Example commands:
 - Twitter: [@GhulamShabbir59](https://twitter.com/GhulamShabbir59)
 - LinkedIn: [ghulamshabbir225264247](www.linkedin.com/in/ghulam-shabbir-225264247)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
